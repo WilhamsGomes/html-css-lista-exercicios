@@ -1,0 +1,22 @@
+body{
+    background-color: #E0FFFF;
+}
+
+p{
+    color: rgb(155, 3, 3);
+    text-transform: capitalize;
+}
+
+h1{
+    font-style: italic;
+    text-align: center;
+}
+
+#p1{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    text-decoration: line-through;
+}
